@@ -52,8 +52,8 @@ Official ERC-20 token contract for the TipCryp ecosystem, deployed on Base mainn
 - **Live Product:** https://tipcryp.me
 - **ICO Site:** https://tipcryp.io
 - **Whitepaper:** https://tipcryp.io/whitepaper.html
-- **Telegram:** [Join Community]
-- **Twitter/X:** [Follow Us]
+- **Telegram:** https://t.me/+WtbDPLuRTLE4NTQx
+- **Twitter/X:** https://x.com/TipCrypio
 
 ## Security
 
